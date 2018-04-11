@@ -1,0 +1,4 @@
+2018-03-27 23:21:37,232 - LoginTest - INFO - 点击一下click click
+2018-03-27 23:21:41,722 - Driver - INFO - 打开火狐浏览器
+2018-03-27 23:21:41,728 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-27 23:21:50,008 - Page - INFO - 浏览器中输入域名：https://beta.e-ducation.cn/

@@ -1,0 +1,6 @@
+2018-03-30 12:22:23,859 - Driver - INFO - 打开火狐浏览器
+2018-03-30 12:22:23,866 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 12:22:23,866 - Page - INFO - 点击test_homepage下的chinese按钮
+2018-03-30 12:22:25,117 - Page - INFO - 点击test_homepage下的english按钮
+2018-03-30 12:22:26,854 - price_test - INFO - ['Features\nPricing\nSupport\nGuide\nEliteU'] info is error
+2018-03-30 12:22:26,855 - test_homeoage - INFO - 测试完成，现在退出

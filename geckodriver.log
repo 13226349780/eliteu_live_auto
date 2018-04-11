@@ -1,0 +1,1206 @@
+1516610493334	geckodriver	INFO	geckodriver 0.19.0
+1516610493341	geckodriver	INFO	Listening on 127.0.0.1:58200
+1516610496408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.Yj63RZUKzjPA"
+1516610497068	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516610498640	Marionette	INFO	Listening on port 58218
+1516610499590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516610499638	Marionette	DEBUG	Register listener.js for window 4294967297
+1516610499669	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516610499895	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516610499895	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516610500155	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516610500225	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Child 5060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516610591403	geckodriver	INFO	geckodriver 0.19.0
+1516610591411	geckodriver	INFO	Listening on 127.0.0.1:58709
+1516610594490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.eT3GVsKMErBP"
+1516610595000	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516610596544	Marionette	INFO	Listening on port 58730
+1516610597616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516610597661	Marionette	DEBUG	Register listener.js for window 4294967297
+1516610597682	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516610597885	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516610597885	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516610598207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516610598277	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1520416600288	geckodriver	INFO	geckodriver 0.19.0
+1520416600308	geckodriver	INFO	Listening on 127.0.0.1:50956
+1520416603360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.44FC0Lah09Pd"
+1520416604817	Marionette	INFO	Enabled via --marionette
+1520416606434	Marionette	INFO	Listening on port 50966
+1520416606854	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520473226110	geckodriver	INFO	geckodriver 0.19.0
+1520473226120	geckodriver	INFO	Listening on 127.0.0.1:63238
+1520473229492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.mKctux9tz14L"
+1520473231279	Marionette	INFO	Enabled via --marionette
+1520473233618	Marionette	INFO	Listening on port 63246
+1520473233714	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520480704577	geckodriver	INFO	geckodriver 0.19.0
+1520480704586	geckodriver	INFO	Listening on 127.0.0.1:65214
+1520480707705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.Pg4SReznoBPm"
+1520480709200	Marionette	INFO	Enabled via --marionette
+1520480711106	Marionette	INFO	Listening on port 65222
+1520480711365	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520480793663	geckodriver	INFO	geckodriver 0.19.0
+1520480793671	geckodriver	INFO	Listening on 127.0.0.1:65293
+1520480796777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.euz0EKcGO7oy"
+1520480798247	Marionette	INFO	Enabled via --marionette
+1520480800197	Marionette	INFO	Listening on port 65301
+1520480800409	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520483238732	geckodriver	INFO	geckodriver 0.19.0
+1520483238741	geckodriver	INFO	Listening on 127.0.0.1:49558
+1520483241832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.9A9eISBFdbji"
+1520483243296	Marionette	INFO	Enabled via --marionette
+1520483245262	Marionette	INFO	Listening on port 49566
+1520483245445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520483270310	geckodriver	INFO	geckodriver 0.19.0
+1520483270319	geckodriver	INFO	Listening on 127.0.0.1:49627
+1520483273410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.eCmGRl42dmsn"
+1520483274947	Marionette	INFO	Enabled via --marionette
+1520483276481	Marionette	INFO	Listening on port 49648
+1520483276883	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520483286254	geckodriver	INFO	geckodriver 0.19.0
+1520483286262	geckodriver	INFO	Listening on 127.0.0.1:49722
+1520483289323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.wnSUDDvZLq3P"
+1520483290750	Marionette	INFO	Enabled via --marionette
+1520483292164	Marionette	INFO	Listening on port 49730
+1520483292623	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520483297482	geckodriver	INFO	geckodriver 0.19.0
+1520483297491	geckodriver	INFO	Listening on 127.0.0.1:49781
+1520483300709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.aG8UIbA0pO9b"
+1520483302147	Marionette	INFO	Enabled via --marionette
+1520483303562	Marionette	INFO	Listening on port 49789
+1520483304008	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520483308724	geckodriver	INFO	geckodriver 0.19.0
+1520483308733	geckodriver	INFO	Listening on 127.0.0.1:49840
+1520483311809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.prts3sOyL0sB"
+1520483313191	Marionette	INFO	Enabled via --marionette
+1520483315150	Marionette	INFO	Listening on port 49848
+1520483315428	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520483340122	geckodriver	INFO	geckodriver 0.19.0
+1520483340129	geckodriver	INFO	Listening on 127.0.0.1:49914
+1520483343217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.82LCorIcOhRG"
+1520483344667	Marionette	INFO	Enabled via --marionette
+1520483346314	Marionette	INFO	Listening on port 49922
+1520483346736	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520483359230	geckodriver	INFO	geckodriver 0.19.0
+1520483359237	geckodriver	INFO	Listening on 127.0.0.1:49990
+1520483362297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.ApaFGbPngxl0"
+1520483363685	Marionette	INFO	Enabled via --marionette
+1520483365049	Marionette	INFO	Listening on port 49999
+1520483365521	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520483370275	geckodriver	INFO	geckodriver 0.19.0
+1520483370283	geckodriver	INFO	Listening on 127.0.0.1:50050
+1520483373389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.7LfNS0OBXFVM"
+1520483374827	Marionette	INFO	Enabled via --marionette
+1520483376340	Marionette	INFO	Listening on port 50058
+1520483376739	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520488375383	geckodriver	INFO	geckodriver 0.19.0
+1520488375392	geckodriver	INFO	Listening on 127.0.0.1:50974
+1520488378483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.wUUgKpLxiRDX"
+1520488380005	Marionette	INFO	Enabled via --marionette
+1520488381670	Marionette	INFO	Listening on port 50983
+1520488382164	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520488407748	geckodriver	INFO	geckodriver 0.19.0
+1520488407756	geckodriver	INFO	Listening on 127.0.0.1:51038
+1520488410848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.ysCCIcJ6SoV3"
+1520488412366	Marionette	INFO	Enabled via --marionette
+1520488414332	Marionette	INFO	Listening on port 51046
+1520488414497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520488423869	geckodriver	INFO	geckodriver 0.19.0
+1520488423876	geckodriver	INFO	Listening on 127.0.0.1:51110
+1520488426964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.tHJU5bCIsfSJ"
+1520488428370	Marionette	INFO	Enabled via --marionette
+1520488430254	Marionette	INFO	Listening on port 51119
+1520488430579	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520488435560	geckodriver	INFO	geckodriver 0.19.0
+1520488435569	geckodriver	INFO	Listening on 127.0.0.1:51170
+1520488438685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.zmPraKbysXuB"
+1520488440119	Marionette	INFO	Enabled via --marionette
+1520488441604	Marionette	INFO	Listening on port 51179
+1520488442010	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520488446843	geckodriver	INFO	geckodriver 0.19.0
+1520488446850	geckodriver	INFO	Listening on 127.0.0.1:51229
+1520488449975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.RUnrD70FDBJF"
+1520488451365	Marionette	INFO	Enabled via --marionette
+1520488453286	Marionette	INFO	Listening on port 51237
+1520488453589	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520488478312	geckodriver	INFO	geckodriver 0.19.0
+1520488478321	geckodriver	INFO	Listening on 127.0.0.1:51290
+1520488481408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.rEaO6bVLU7PK"
+1520488482863	Marionette	INFO	Enabled via --marionette
+1520488484361	Marionette	INFO	Listening on port 51298
+1520488484775	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520488494110	geckodriver	INFO	geckodriver 0.19.0
+1520488494118	geckodriver	INFO	Listening on 127.0.0.1:51367
+1520488497205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.cNwV0Psal553"
+1520488498626	Marionette	INFO	Enabled via --marionette
+1520488500570	Marionette	INFO	Listening on port 51376
+1520488500824	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520488505652	geckodriver	INFO	geckodriver 0.19.0
+1520488505660	geckodriver	INFO	Listening on 127.0.0.1:51429
+1520488508743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.7jI3H5pCizA5"
+1520488510166	Marionette	INFO	Enabled via --marionette
+1520488511584	Marionette	INFO	Listening on port 51438
+1520488512042	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520502013566	geckodriver	INFO	geckodriver 0.19.0
+1520502013574	geckodriver	INFO	Listening on 127.0.0.1:53636
+1520502016678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.bh2nFmdE5YFL"
+1520502018174	Marionette	INFO	Enabled via --marionette
+1520502019849	Marionette	INFO	Listening on port 53646
+1520502020332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520502025218	geckodriver	INFO	geckodriver 0.19.0
+1520502025225	geckodriver	INFO	Listening on 127.0.0.1:53696
+1520502028324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.eCdcYf20SeWT"
+1520502029675	Marionette	INFO	Enabled via --marionette
+1520502031077	Marionette	INFO	Listening on port 53705
+1520502031516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520502056401	geckodriver	INFO	geckodriver 0.19.0
+1520502056409	geckodriver	INFO	Listening on 127.0.0.1:53760
+1520502059505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.nGAbyFDjaNwr"
+1520502060982	Marionette	INFO	Enabled via --marionette
+1520502062469	Marionette	INFO	Listening on port 53768
+1520502062883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520502703306	geckodriver	INFO	geckodriver 0.19.0
+1520502703316	geckodriver	INFO	Listening on 127.0.0.1:54007
+1520502706438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.teQTwhWN9Sgb"
+1520502724041	geckodriver	INFO	geckodriver 0.19.0
+1520502724050	geckodriver	INFO	Listening on 127.0.0.1:54021
+1520502727160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.Ums6nBXJOhmr"
+1520502728601	Marionette	INFO	Enabled via --marionette
+1520502730073	Marionette	INFO	Listening on port 54030
+1520502730491	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520502735454	geckodriver	INFO	geckodriver 0.19.0
+1520502735461	geckodriver	INFO	Listening on 127.0.0.1:54079
+1520502738529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.ZuJiUOqnvL2O"
+1520502739899	Marionette	INFO	Enabled via --marionette
+1520502741770	Marionette	INFO	Listening on port 54088
+1520502742148	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520502767027	geckodriver	INFO	geckodriver 0.19.0
+1520502767036	geckodriver	INFO	Listening on 127.0.0.1:54140
+1520502770135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.wD1gmdJcD7IF"
+1520502771588	Marionette	INFO	Enabled via --marionette
+1520502773529	Marionette	INFO	Listening on port 54149
+1520502773757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520503098483	geckodriver	INFO	geckodriver 0.19.0
+1520503098492	geckodriver	INFO	Listening on 127.0.0.1:54255
+1520503101578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.Nrw941ElP6UT"
+1520503103041	Marionette	INFO	Enabled via --marionette
+1520503104738	Marionette	INFO	Listening on port 54263
+1520503105199	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520503109984	geckodriver	INFO	geckodriver 0.19.0
+1520503109992	geckodriver	INFO	Listening on 127.0.0.1:54313
+1520503113070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.KcgY8AEZIc3t"
+1520503114452	Marionette	INFO	Enabled via --marionette
+1520503115933	Marionette	INFO	Listening on port 54321
+1520503116344	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520503141268	geckodriver	INFO	geckodriver 0.19.0
+1520503141276	geckodriver	INFO	Listening on 127.0.0.1:54375
+1520503144395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.EzybkSxOPbI3"
+1520503145865	Marionette	INFO	Enabled via --marionette
+1520503147876	Marionette	INFO	Listening on port 54383
+1520503148030	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520558902476	geckodriver	INFO	geckodriver 0.19.0
+1520558902486	geckodriver	INFO	Listening on 127.0.0.1:59040
+1520558905798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.66I7o0MJI7DE"
+1520558907388	Marionette	INFO	Enabled via --marionette
+1520558909622	Marionette	INFO	Listening on port 59048
+1520558910257	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520558915192	geckodriver	INFO	geckodriver 0.19.0
+1520558915201	geckodriver	INFO	Listening on 127.0.0.1:59101
+1520558918281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.yVNEzArqCn83"
+1520558919764	Marionette	INFO	Enabled via --marionette
+1520558921362	Marionette	INFO	Listening on port 59109
+1520558921409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520558946529	geckodriver	INFO	geckodriver 0.19.0
+1520558946537	geckodriver	INFO	Listening on 127.0.0.1:59169
+1520558949590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.0P8unPlcp5bY"
+1520558950951	Marionette	INFO	Enabled via --marionette
+1520558952897	Marionette	INFO	Listening on port 59179
+1520558953214	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522048792816	geckodriver	INFO	geckodriver 0.19.0
+1522048792838	geckodriver	INFO	Listening on 127.0.0.1:13395
+1522048796003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.M8siUE1bDn8U"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048797698	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048800104	Marionette	INFO	Listening on port 13409
+1522048800540	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522048809898	geckodriver	INFO	geckodriver 0.19.0
+1522048809906	geckodriver	INFO	Listening on 127.0.0.1:13477
+1522048813004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.rSOnQh0m0Rh6"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048814502	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048816070	Marionette	INFO	Listening on port 13485
+1522048816150	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522048827110	geckodriver	INFO	geckodriver 0.19.0
+1522048827119	geckodriver	INFO	Listening on 127.0.0.1:13555
+1522048830189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.VWzgJ6wL4OZn"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048831652	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048833304	Marionette	INFO	Listening on port 13563
+1522048833704	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522048846726	geckodriver	INFO	geckodriver 0.19.0
+1522048846735	geckodriver	INFO	Listening on 127.0.0.1:13634
+1522048849854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.d7jsmZZz5opd"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048851368	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048852946	Marionette	INFO	Listening on port 13642
+1522048852984	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048863971	geckodriver	INFO	geckodriver 0.19.0
+1522048863978	geckodriver	INFO	Listening on 127.0.0.1:13711
+1522048867070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.8KBtJ6K1Cm4S"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048868540	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048870058	Marionette	INFO	Listening on port 13720
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048870194	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522048881118	geckodriver	INFO	geckodriver 0.19.0
+1522048881127	geckodriver	INFO	Listening on 127.0.0.1:13786
+1522048884234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.h5NVKs18VPIt"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048885674	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048887270	Marionette	INFO	Listening on port 13794
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048887354	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522048899759	geckodriver	INFO	geckodriver 0.19.0
+1522048899768	geckodriver	INFO	Listening on 127.0.0.1:13859
+1522048902874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.x3AD47YgisRg"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048904358	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048905934	Marionette	INFO	Listening on port 13871
+1522048906016	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522048918881	geckodriver	INFO	geckodriver 0.19.0
+1522048918889	geckodriver	INFO	Listening on 127.0.0.1:13945
+1522048922033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.PLtZaXFfInRW"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048923476	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048925038	Marionette	INFO	Listening on port 13953
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048925156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522048937292	geckodriver	INFO	geckodriver 0.19.0
+1522048937300	geckodriver	INFO	Listening on 127.0.0.1:14019
+1522048940398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.Dt0kpfe7juFO"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048941902	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048943484	Marionette	INFO	Listening on port 14027
+1522048943544	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522048955764	geckodriver	INFO	geckodriver 0.19.0
+1522048955772	geckodriver	INFO	Listening on 127.0.0.1:14098
+1522048958882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.NbEBMMxSIn7S"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048960364	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048961950	Marionette	INFO	Listening on port 14106
+1522048962022	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048974412	geckodriver	INFO	geckodriver 0.19.0
+1522048974420	geckodriver	INFO	Listening on 127.0.0.1:14177
+1522048977521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.nTEW7mnjHhyd"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048979000	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522048980538	Marionette	INFO	Listening on port 14186
+1522048980662	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522054208177	geckodriver	INFO	geckodriver 0.19.0
+1522054208189	geckodriver	INFO	Listening on 127.0.0.1:2878
+1522054211259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.Ev3xRJDadzVh"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522054212954	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522054215340	Marionette	INFO	Listening on port 2886
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522054215808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://eliteu-live.beta.e-ducation.cn/vendor.eb5a916f.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: http://eliteu-live.beta.e-ducation.cn/index.2a5199f8.js, line 1: ReferenceError: webpackJsonp is not defined
+1522054410881	geckodriver	INFO	geckodriver 0.19.0
+1522054410889	geckodriver	INFO	Listening on 127.0.0.1:2986
+1522054413962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.vQ4rGT8tguvq"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522054415640	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522054417980	Marionette	INFO	Listening on port 3001
+1522054418252	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522054600807	geckodriver	INFO	geckodriver 0.19.0
+1522054600817	geckodriver	INFO	Listening on 127.0.0.1:3106
+1522054603901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gx\\AppData\\Local\\Temp\\rust_mozprofile.9Rxms0wVCf7y"
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522054605490	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gx\AppData\Local\openvr\openvrpaths.vrpath
+1522054607888	Marionette	INFO	Listening on port 3114
+1522054608326	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522142986358	geckodriver	INFO	geckodriver 0.20.0
+1522142986436	geckodriver	INFO	Listening on 127.0.0.1:65061
+1522142987679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.NlydIDYeGr4A"
+1522142988764	Marionette	INFO	Enabled via --marionette
+2018-03-27 17:29:50.068 plugin-container[10604:567740] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-27 17:29:50.604 firefox-bin[10603:567618] IMKInputSession [0x130eb1310 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12b1551c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1522142990708	Marionette	INFO	Listening on port 65072
+1522142990780	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-27 17:29:50.894 plugin-container[10604:567740] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d0f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-27 17:29:52.256 plugin-container[10605:567870] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-27 17:29:52.483 plugin-container[10605:567870] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7767, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522142996155	geckodriver::marionette	ERROR	Failed to stop browser process
+1522371761396	geckodriver	INFO	geckodriver 0.20.0
+1522371761403	geckodriver	INFO	Listening on 127.0.0.1:51723
+1522371762431	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.jjImsTzWI5K0"
+1522371762942	Marionette	INFO	Enabled via --marionette
+2018-03-30 09:02:43.842 plugin-container[1424:61309] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:02:44.012 plugin-container[1424:61309] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2827, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522371764206	Marionette	INFO	Listening on port 51730
+1522371764232	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 09:02:44.758 plugin-container[1425:61378] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:02:44.901 plugin-container[1425:61378] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b47, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-03-30 09:02:45.619 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4099 "The connection from pid 0 was invalidated from this process." UserInfo={NSDebugDescription=The connection from pid 0 was invalidated from this process.}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-03-30 09:02:50.413 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:02:51.692 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:02:53.774 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:02:53.823 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:02:55.068 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:02:55.914 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:02:55.960 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:02:58.020 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:02:58.046 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:02:58.897 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:02:58.935 firefox-bin[1423:61222] IMKInputSession [0x12d7d1700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12fbff760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522371780676	geckodriver::marionette	ERROR	Failed to stop browser process
+1522372238297	geckodriver	INFO	geckodriver 0.20.0
+1522372238303	geckodriver	INFO	Listening on 127.0.0.1:51959
+1522372239321	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.OWeuCOdD2yMT"
+1522372239818	Marionette	INFO	Enabled via --marionette
+2018-03-30 09:10:40.665 plugin-container[1453:67315] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:10:40.811 plugin-container[1453:67315] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x814b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522372241010	Marionette	INFO	Listening on port 51966
+1522372241024	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 09:10:41.541 plugin-container[1454:67423] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:10:41.674 plugin-container[1454:67423] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2523, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-03-30 09:10:44.066 firefox-bin[1452:67223] IMKInputSession [0x123f219d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1346982e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522372255900	geckodriver::marionette	ERROR	Failed to stop browser process
+1522372335449	geckodriver	INFO	geckodriver 0.20.0
+1522372335455	geckodriver	INFO	Listening on 127.0.0.1:52075
+1522372336480	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.Fh7MwPR0DNze"
+1522372336938	Marionette	INFO	Enabled via --marionette
+2018-03-30 09:12:17.761 plugin-container[1476:69200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:12:17.894 plugin-container[1476:69200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x272b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522372338120	Marionette	INFO	Listening on port 52082
+1522372338182	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 09:12:18.646 plugin-container[1477:69269] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:12:18.805 plugin-container[1477:69269] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x171b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522372353880	geckodriver::marionette	ERROR	Failed to stop browser process
+1522372462451	geckodriver	INFO	geckodriver 0.20.0
+1522372462456	geckodriver	INFO	Listening on 127.0.0.1:52185
+1522372463483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.TM4zitBchtCC"
+1522372463916	Marionette	INFO	Enabled via --marionette
+2018-03-30 09:14:24.673 plugin-container[1502:70762] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:14:24.806 plugin-container[1502:70762] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2727, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522372465058	Marionette	INFO	Listening on port 52192
+1522372465162	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 09:14:25.588 plugin-container[1503:70843] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8033, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:14:25.722 plugin-container[1503:70843] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x261f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-03-30 09:15:06.346 firefox-bin[1501:70649] IMKInputSession [0x11b6a4af0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11cbdfa00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1522372597240	geckodriver	INFO	geckodriver 0.20.0
+1522372597246	geckodriver	INFO	Listening on 127.0.0.1:52311
+1522372598269	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.xvA1bGnYM3VW"
+1522372598782	Marionette	INFO	Enabled via --marionette
+2018-03-30 09:16:39.587 plugin-container[1535:72896] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:16:39.737 plugin-container[1535:72896] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1827, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522372599916	Marionette	INFO	Listening on port 52319
+1522372599962	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 09:16:40.518 plugin-container[1536:72971] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:16:40.649 plugin-container[1536:72971] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x271f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522372614995	geckodriver::marionette	ERROR	Failed to stop browser process
+1522372782701	geckodriver	INFO	geckodriver 0.20.0
+1522372782706	geckodriver	INFO	Listening on 127.0.0.1:52513
+1522372782722	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.zkqlcshFo0Z9"
+1522372783184	Marionette	INFO	Enabled via --marionette
+2018-03-30 09:19:43.984 plugin-container[1555:75746] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:19:44.117 plugin-container[1555:75746] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2327, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522372784314	Marionette	INFO	Listening on port 52518
+1522372784410	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 09:19:44.900 plugin-container[1556:75823] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7837, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:19:45.033 plugin-container[1556:75823] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x161f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-03-30 09:20:01.892 firefox-bin[1554:75630] IMKInputSession [0x116ea1940 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11f387100 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522372802505	geckodriver::marionette	ERROR	Failed to stop browser process
+1522372802545	geckodriver	INFO	geckodriver 0.20.0
+1522372802551	geckodriver	INFO	Listening on 127.0.0.1:52627
+1522372803560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.WJD3uMdIyrib"
+1522372804088	Marionette	INFO	Enabled via --marionette
+2018-03-30 09:20:04.870 plugin-container[1561:76231] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:20:05.007 plugin-container[1561:76231] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x182b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522372805192	Marionette	INFO	Listening on port 52634
+1522372805262	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 09:20:05.772 plugin-container[1562:76296] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:20:05.924 plugin-container[1562:76296] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x191b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:20:06.158 firefox-bin[1560:76161] IMKInputSession [0x119567700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1360d8ee0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1522372828440	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522372828859	geckodriver::marionette	ERROR	Failed to stop browser process
+1522372828914	geckodriver	INFO	geckodriver 0.20.0
+1522372828920	geckodriver	INFO	Listening on 127.0.0.1:52756
+1522372829929	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.5g63w1XYNsgo"
+1522372830384	Marionette	INFO	Enabled via --marionette
+2018-03-30 09:20:31.186 plugin-container[1566:76698] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:20:31.333 plugin-container[1566:76698] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1827, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522372831502	Marionette	INFO	Listening on port 52763
+1522372831608	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 09:20:32.079 plugin-container[1567:76779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:20:32.210 plugin-container[1567:76779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1a1b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-03-30 09:20:34.322 firefox-bin[1565:76630] IMKInputSession [0x11fe439d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x13d8340a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-03-30 09:20:39.466 firefox-bin[1565:76630] IMKInputSession [0x11fe439d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x13d8340a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522372844209	geckodriver::marionette	ERROR	Failed to stop browser process
+1522372844249	geckodriver	INFO	geckodriver 0.20.0
+1522372844255	geckodriver	INFO	Listening on 127.0.0.1:52844
+1522372845268	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.2kf2CLqL9vAl"
+1522372845728	Marionette	INFO	Enabled via --marionette
+2018-03-30 09:20:46.526 plugin-container[1571:77134] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:20:46.659 plugin-container[1571:77134] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d73, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522372846848	Marionette	INFO	Listening on port 52851
+1522372846950	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 09:20:47.428 plugin-container[1572:77206] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:20:47.563 plugin-container[1572:77206] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x281b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-03-30 09:20:51.570 firefox-bin[1570:77051] IMKInputSession [0x11a54f550 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1376b7e20 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522372855306	geckodriver::marionette	ERROR	Failed to stop browser process
+1522372855344	geckodriver	INFO	geckodriver 0.20.0
+1522372855350	geckodriver	INFO	Listening on 127.0.0.1:52922
+1522372856372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.xR7D9DBRfvCt"
+1522372856784	Marionette	INFO	Enabled via --marionette
+2018-03-30 09:20:57.544 plugin-container[1577:77487] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:20:57.680 plugin-container[1577:77487] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1827, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522372857864	Marionette	INFO	Listening on port 52932
+1522372857968	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 09:20:58.459 plugin-container[1578:77555] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:20:58.596 plugin-container[1578:77555] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x281b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-03-30 09:20:58.963 firefox-bin[1576:77423] IMKInputSession [0x110e8caf0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x129a15ee0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522372873041	geckodriver::marionette	ERROR	Failed to stop browser process
+2018-03-30 09:29:18.287 firefox-bin[1501:70649] IMKInputSession [0x136a82e50 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12047a820 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:29:18.306 firefox-bin[1501:70649] IMKInputSession [0x136a82ca0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12047a820 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.SCIM
+2018-03-30 09:29:18.366 firefox-bin[1501:70649] IMKInputSession [0x136a82e50 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12047a820 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:29:18.394 firefox-bin[1501:70649] IMKInputSession [0x136a82ca0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12047a820 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.SCIM
+2018-03-30 09:29:18.647 plugin-container[1586:84119] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8633, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:29:18.787 plugin-container[1586:84119] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d0f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:29:34.111 firefox-bin[1501:70649] IMKInputSession [0x136a82e50 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12047a820 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:29:34.140 firefox-bin[1501:70649] IMKInputSession [0x136a82ca0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12047a820 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.SCIM
+2018-03-30 09:29:34.185 firefox-bin[1501:70649] IMKInputSession [0x136a82e50 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12047a820 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:29:34.210 firefox-bin[1501:70649] IMKInputSession [0x136a82ca0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12047a820 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.SCIM
+2018-03-30 09:29:34.881 firefox-bin[1501:70649] IMKInputSession [0x136a82ca0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12047a820 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.SCIM
+2018-03-30 09:29:38.978 firefox-bin[1501:70649] IMKInputSession [0x136a82ca0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12047a820 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.SCIM
+2018-03-30 09:29:43.051 firefox-bin[1501:70649] IMKInputSession [0x1361cc820 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x125450040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:29:43.113 firefox-bin[1501:70649] IMKInputSession [0x1361cc670 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x125450040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.SCIM
+2018-03-30 09:29:43.171 firefox-bin[1501:70649] IMKInputSession [0x1361cc820 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x125450040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 09:29:43.346 firefox-bin[1501:70649] IMKInputSession [0x1361cc670 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x125450040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.SCIM
+2018-03-30 09:29:43.523 plugin-container[1587:84496] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 09:29:43.652 plugin-container[1587:84496] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x281f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522389602323	geckodriver	INFO	geckodriver 0.20.0
+1522389602330	geckodriver	INFO	Listening on 127.0.0.1:61277
+1522389603355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.XYZXDNHXZ8Sk"
+1522389604144	Marionette	INFO	Enabled via --marionette
+2018-03-30 14:00:04.988 plugin-container[4122:252054] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:00:05.213 plugin-container[4122:252054] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2627, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522389605372	Marionette	INFO	Listening on port 61284
+1522389605464	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 14:00:05.911 plugin-container[4123:252125] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:00:06.045 plugin-container[4123:252125] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1c1b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522389622553	geckodriver::marionette	ERROR	Failed to stop browser process
+1522389622588	geckodriver	INFO	geckodriver 0.20.0
+1522389622594	geckodriver	INFO	Listening on 127.0.0.1:61406
+1522389623613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.ndKLYnTlIerU"
+1522389624094	Marionette	INFO	Enabled via --marionette
+2018-03-30 14:00:24.859 plugin-container[4126:252563] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:00:24.991 plugin-container[4126:252563] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2727, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522389625160	Marionette	INFO	Listening on port 61413
+1522389625198	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 14:00:25.780 plugin-container[4127:252629] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:00:25.921 plugin-container[4127:252629] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x171b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1522389647856	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522389648266	geckodriver::marionette	ERROR	Failed to stop browser process
+1522389648304	geckodriver	INFO	geckodriver 0.20.0
+1522389648311	geckodriver	INFO	Listening on 127.0.0.1:61531
+1522389649329	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.Qqp3frCp1ptZ"
+1522389649832	Marionette	INFO	Enabled via --marionette
+2018-03-30 14:00:50.616 plugin-container[4130:253058] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:00:50.746 plugin-container[4130:253058] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2827, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522389650932	Marionette	INFO	Listening on port 61538
+1522389651022	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 14:00:51.554 plugin-container[4131:253127] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8333, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:00:51.689 plugin-container[4131:253127] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1a3b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522389663392	geckodriver::marionette	ERROR	Failed to stop browser process
+1522389663434	geckodriver	INFO	geckodriver 0.20.0
+1522389663439	geckodriver	INFO	Listening on 127.0.0.1:61618
+1522389664453	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.4YRJdKI271Tq"
+1522389664930	Marionette	INFO	Enabled via --marionette
+2018-03-30 14:01:05.715 plugin-container[4134:253381] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:01:05.850 plugin-container[4134:253381] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2927, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522389666078	Marionette	INFO	Listening on port 61625
+1522389666128	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 14:01:06.617 plugin-container[4135:253454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:01:06.749 plugin-container[4135:253454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x261f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 4134, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4134, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522389674310	geckodriver::marionette	ERROR	Failed to stop browser process
+1522389674344	geckodriver	INFO	geckodriver 0.20.0
+1522389674350	geckodriver	INFO	Listening on 127.0.0.1:61701
+1522389675366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.ucx9dofnVtQC"
+1522389675794	Marionette	INFO	Enabled via --marionette
+2018-03-30 14:01:16.561 plugin-container[4138:253694] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:01:16.702 plugin-container[4138:253694] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2727, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522389676874	Marionette	INFO	Listening on port 61708
+1522389676936	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 14:01:17.485 plugin-container[4139:253766] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:01:17.622 plugin-container[4139:253766] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1b23, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522389692766	geckodriver::marionette	ERROR	Failed to stop browser process
+1522389692799	geckodriver	INFO	geckodriver 0.20.0
+1522389692806	geckodriver	INFO	Listening on 127.0.0.1:61795
+1522389693830	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.zEh0GbtvdHh3"
+1522389694248	Marionette	INFO	Enabled via --marionette
+2018-03-30 14:01:35.018 plugin-container[4142:254028] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:01:35.154 plugin-container[4142:254028] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2827, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522389695330	Marionette	INFO	Listening on port 61802
+1522389695398	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 14:01:35.938 plugin-container[4143:254114] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:01:36.075 plugin-container[4143:254114] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x251f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1522389720974	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522389721394	geckodriver::marionette	ERROR	Failed to stop browser process
+1522389721432	geckodriver	INFO	geckodriver 0.20.0
+1522389721437	geckodriver	INFO	Listening on 127.0.0.1:61922
+1522389722463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.PuwfMxu3GFGj"
+1522389722878	Marionette	INFO	Enabled via --marionette
+2018-03-30 14:02:03.625 plugin-container[4146:254488] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:02:03.760 plugin-container[4146:254488] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2827, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522389723930	Marionette	INFO	Listening on port 61929
+1522389724034	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 14:02:04.551 plugin-container[4147:254554] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 14:02:04.681 plugin-container[4147:254554] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x191b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522389733266	geckodriver::marionette	ERROR	Failed to stop browser process
+1522394564098	geckodriver	INFO	geckodriver 0.20.0
+1522394564111	geckodriver	INFO	Listening on 127.0.0.1:64085
+1522394565116	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.LkOtiQrwYPQR"
+1522394565716	Marionette	INFO	Enabled via --marionette
+2018-03-30 15:22:46.537 plugin-container[4913:320701] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522394566956	Marionette	INFO	Listening on port 64092
+1522394567018	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 15:22:47.459 plugin-container[4913:320701] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1b47, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:22:47.482 plugin-container[4914:320785] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:22:47.625 plugin-container[4914:320785] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x231f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:22:48.073 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 15:22:48.088 firefox-bin[4912:320592] IMKInputSession [0x119544d30 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.SCIM
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-03-30 15:22:53.785 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 15:22:53.811 firefox-bin[4912:320592] IMKInputSession [0x119544d30 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.SCIM
+2018-03-30 15:22:55.210 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 15:22:55.235 firefox-bin[4912:320592] IMKInputSession [0x119544d30 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.SCIM
+2018-03-30 15:22:57.281 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 15:22:57.324 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 15:22:58.621 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 15:22:59.472 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 15:22:59.516 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 15:23:01.587 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 15:23:01.611 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 15:23:02.475 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-30 15:23:02.512 firefox-bin[4912:320592] IMKInputSession [0x119544dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a91f8e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522394584942	geckodriver::marionette	ERROR	Failed to stop browser process
+1522394584992	geckodriver	INFO	geckodriver 0.20.0
+1522394584998	geckodriver	INFO	Listening on 127.0.0.1:64208
+1522394586001	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.KMoN0yxGaHbk"
+1522394586512	Marionette	INFO	Enabled via --marionette
+2018-03-30 15:23:07.275 plugin-container[4918:321372] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:23:07.424 plugin-container[4918:321372] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x240b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522394587602	Marionette	INFO	Listening on port 64215
+1522394587688	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 15:23:08.176 plugin-container[4919:321438] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:23:08.318 plugin-container[4919:321438] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x161f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522394610679	geckodriver::marionette	ERROR	Failed to stop browser process
+1522394610722	geckodriver	INFO	geckodriver 0.20.0
+1522394610731	geckodriver	INFO	Listening on 127.0.0.1:64327
+1522394611744	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.iDsUtFZJJuwk"
+1522394612266	Marionette	INFO	Enabled via --marionette
+2018-03-30 15:23:33.043 plugin-container[4922:321957] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:23:33.174 plugin-container[4922:321957] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1b27, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522394613352	Marionette	INFO	Listening on port 64338
+1522394613440	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 15:23:33.957 plugin-container[4923:322026] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:23:34.089 plugin-container[4923:322026] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x271b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522394625804	geckodriver::marionette	ERROR	Failed to stop browser process
+1522394625846	geckodriver	INFO	geckodriver 0.20.0
+1522394625851	geckodriver	INFO	Listening on 127.0.0.1:64422
+1522394626868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.pWWQVDkRVF7z"
+1522394627376	Marionette	INFO	Enabled via --marionette
+2018-03-30 15:23:48.147 plugin-container[4926:322326] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:23:48.280 plugin-container[4926:322326] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2727, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522394628452	Marionette	INFO	Listening on port 64429
+1522394628558	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 15:23:49.065 plugin-container[4927:322396] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:23:49.207 plugin-container[4927:322396] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1a1b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522394636712	geckodriver::marionette	ERROR	Failed to stop browser process
+1522394636752	geckodriver	INFO	geckodriver 0.20.0
+1522394636758	geckodriver	INFO	Listening on 127.0.0.1:64501
+1522394637776	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.V4Hek5205TvP"
+1522394638266	Marionette	INFO	Enabled via --marionette
+2018-03-30 15:23:59.023 plugin-container[4931:322619] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:23:59.158 plugin-container[4931:322619] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1927, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522394639458	Marionette	INFO	Listening on port 64509
+1522394639586	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 15:23:59.958 plugin-container[4932:322686] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:24:00.087 plugin-container[4932:322686] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x191f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522394654496	geckodriver::marionette	ERROR	Failed to stop browser process
+1522394654535	geckodriver	INFO	geckodriver 0.20.0
+1522394654541	geckodriver	INFO	Listening on 127.0.0.1:64601
+1522394655556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.iVgDSHDq0T6g"
+1522394655986	Marionette	INFO	Enabled via --marionette
+2018-03-30 15:24:16.735 plugin-container[4935:322964] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:24:16.867 plugin-container[4935:322964] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2727, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522394657098	Marionette	INFO	Listening on port 64608
+1522394657126	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 15:24:17.667 plugin-container[4936:323036] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:24:17.800 plugin-container[4936:323036] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x181b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1522394682700	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522394683072	geckodriver::marionette	ERROR	Failed to stop browser process
+1522394683109	geckodriver	INFO	geckodriver 0.20.0
+1522394683114	geckodriver	INFO	Listening on 127.0.0.1:64716
+1522394684135	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.pKOWBbe1bIJC"
+1522394684620	Marionette	INFO	Enabled via --marionette
+2018-03-30 15:24:45.398 plugin-container[4939:323342] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:24:45.531 plugin-container[4939:323342] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2727, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522394685714	Marionette	INFO	Listening on port 64723
+1522394685804	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 15:24:46.310 plugin-container[4940:323412] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 15:24:46.449 plugin-container[4940:323412] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x171f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522394694978	geckodriver::marionette	ERROR	Failed to stop browser process
+1522402604417	geckodriver	INFO	geckodriver 0.20.0
+1522402604422	geckodriver	INFO	Listening on 127.0.0.1:51264
+1522402605444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.sURm8BkZrqos"
+1522402606036	Marionette	INFO	Enabled via --marionette
+2018-03-30 17:36:46.999 plugin-container[5263:432941] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:36:47.281 plugin-container[5263:432941] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1827, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522402607374	Marionette	INFO	Listening on port 51271
+1522402607512	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 17:36:47.916 plugin-container[5264:433016] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:36:48.077 plugin-container[5264:433016] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x251b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522402624750	geckodriver::marionette	ERROR	Failed to stop browser process
+1522402624790	geckodriver	INFO	geckodriver 0.20.0
+1522402624795	geckodriver	INFO	Listening on 127.0.0.1:51391
+1522402625824	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.SPCt7tNCG8ix"
+1522402626262	Marionette	INFO	Enabled via --marionette
+2018-03-30 17:37:07.024 plugin-container[5267:433368] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:37:07.165 plugin-container[5267:433368] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x746f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522402627400	Marionette	INFO	Listening on port 51398
+1522402627500	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 17:37:07.949 plugin-container[5268:433452] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:37:08.082 plugin-container[5268:433452] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x271b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1522402650056	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1522402650060	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522402650478	geckodriver::marionette	ERROR	Failed to stop browser process
+1522402650511	geckodriver	INFO	geckodriver 0.20.0
+1522402650518	geckodriver	INFO	Listening on 127.0.0.1:51511
+1522402651536	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.XNZjTGsNYh68"
+1522402652028	Marionette	INFO	Enabled via --marionette
+2018-03-30 17:37:32.794 plugin-container[5271:433798] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:37:32.929 plugin-container[5271:433798] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1a27, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522402653126	Marionette	INFO	Listening on port 51518
+1522402653218	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 17:37:33.737 plugin-container[5272:433864] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:37:33.874 plugin-container[5272:433864] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x191b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522402665468	geckodriver::marionette	ERROR	Failed to stop browser process
+1522402665504	geckodriver	INFO	geckodriver 0.20.0
+1522402665509	geckodriver	INFO	Listening on 127.0.0.1:51596
+1522402666530	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.f5p46r0jFJvs"
+1522402667034	Marionette	INFO	Enabled via --marionette
+2018-03-30 17:37:47.820 plugin-container[5276:434110] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:37:47.964 plugin-container[5276:434110] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2727, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522402668140	Marionette	INFO	Listening on port 51603
+1522402668212	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 17:37:48.755 plugin-container[5277:434185] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:37:48.897 plugin-container[5277:434185] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2747, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5276, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 5276, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522402676283	geckodriver::marionette	ERROR	Failed to stop browser process
+1522402676317	geckodriver	INFO	geckodriver 0.20.0
+1522402676322	geckodriver	INFO	Listening on 127.0.0.1:51682
+1522402677346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.ySSi4ICraaN1"
+1522402677774	Marionette	INFO	Enabled via --marionette
+2018-03-30 17:37:58.529 plugin-container[5280:434378] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:37:58.672 plugin-container[5280:434378] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2727, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522402678850	Marionette	INFO	Listening on port 51689
+1522402678934	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 17:37:59.469 plugin-container[5281:434451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:37:59.608 plugin-container[5281:434451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x261b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522402693773	geckodriver::marionette	ERROR	Failed to stop browser process
+1522402693807	geckodriver	INFO	geckodriver 0.20.0
+1522402693812	geckodriver	INFO	Listening on 127.0.0.1:51776
+1522402694833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.iFcKswLgJ90Z"
+1522402695278	Marionette	INFO	Enabled via --marionette
+2018-03-30 17:38:16.040 plugin-container[5285:434723] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:38:16.183 plugin-container[5285:434723] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x822f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522402696376	Marionette	INFO	Listening on port 51783
+1522402696402	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 17:38:16.988 plugin-container[5286:434798] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:38:17.125 plugin-container[5286:434798] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x181b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1522402721950	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522402722368	geckodriver::marionette	ERROR	Failed to stop browser process
+1522402722405	geckodriver	INFO	geckodriver 0.20.0
+1522402722410	geckodriver	INFO	Listening on 127.0.0.1:51903
+1522402723435	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.xkceQ50uMDTg"
+1522402723862	Marionette	INFO	Enabled via --marionette
+2018-03-30 17:38:44.629 plugin-container[5290:435136] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:38:44.767 plugin-container[5290:435136] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2627, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522402724948	Marionette	INFO	Listening on port 51910
+1522402725034	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-30 17:38:45.564 plugin-container[5291:435200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-30 17:38:45.710 plugin-container[5291:435200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x181f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://beta.e-ducation.cn/static/js/eliteu/webapp/public/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522402734051	geckodriver::marionette	ERROR	Failed to stop browser process
+1523267611260	geckodriver	INFO	geckodriver 0.20.0
+1523267611313	geckodriver	INFO	Listening on 127.0.0.1:64197
+1523267612314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4n/nlb8qggj0mj8c7rzykrmj6540000gn/T/rust_mozprofile.FYa9ZVrxKq9m"
+1523267613498	Marionette	INFO	Enabled via --marionette
+2018-04-09 17:53:34.671 plugin-container[35903:2469906] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523267615096	Marionette	INFO	Listening on port 64208
+2018-04-09 17:53:35.106 plugin-container[35903:2469906] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1627, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523267615160	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-09 17:53:35.709 plugin-container[35904:2470019] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-09 17:53:35.872 plugin-container[35904:2470019] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8617, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.

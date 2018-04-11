@@ -1,0 +1,12 @@
+2018-03-30 14:17:43,783 - Driver - INFO - 打开火狐浏览器
+2018-03-30 14:17:43,789 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 14:17:43,789 - wel_LoginTest - INFO - 点击一下click click
+2018-03-30 14:17:43,789 - Page - INFO - 点击w_login下的宣传登陆按钮
+2018-03-30 14:17:45,334 - Page - INFO - 点击w_login下的confirm按钮
+2018-03-30 14:17:46,579 - wel_LoginTest - INFO - 不输入密码和账号时提示错误
+2018-03-30 14:17:47,481 - Page - INFO - 点击w_login下的confirm按钮
+2018-03-30 14:17:49,622 - Page - INFO - 点击w_login下的confirm按钮
+2018-03-30 14:17:50,889 - wel_LoginTest - INFO - 只输入账号时提示错误
+2018-03-30 14:17:52,632 - Page - INFO - 点击w_login下的confirm按钮
+2018-03-30 14:17:53,871 - wel_LoginTest - INFO - title is : 主页| E-ducation
+2018-03-30 14:17:53,871 - wel_LoginTest - INFO - 测试完成，现在退出

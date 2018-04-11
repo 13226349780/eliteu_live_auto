@@ -1,0 +1,10 @@
+2018-03-30 12:27:20,520 - Driver - INFO - 打开火狐浏览器
+2018-03-30 12:27:20,524 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 12:27:20,524 - Page - INFO - 点击test_homepage下的chinese按钮
+2018-03-30 12:27:21,756 - Page - INFO - 点击test_homepage下的english按钮
+2018-03-30 12:27:23,510 - test_homeoage - INFO - 测试完成，现在退出
+2018-03-30 12:28:08,663 - Driver - INFO - 打开火狐浏览器
+2018-03-30 12:28:08,666 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 12:28:08,667 - Page - INFO - 点击test_homepage下的chinese按钮
+2018-03-30 12:28:09,917 - Page - INFO - 点击test_homepage下的english按钮
+2018-03-30 12:28:11,658 - test_homeoage - INFO - 测试完成，现在退出

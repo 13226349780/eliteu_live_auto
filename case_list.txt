@@ -1,0 +1,6 @@
+testCase/welcome_login
+testCase/price_test
+testCase/test_fun
+testCase/test_use
+testCase/course
+testCase/test_homepage

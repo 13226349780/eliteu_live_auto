@@ -1,0 +1,13 @@
+2018-03-30 14:13:18,651 - Driver - INFO - 打开火狐浏览器
+2018-03-30 14:13:18,660 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 14:13:18,660 - Page - INFO - 点击t_fun下的fun按钮
+2018-03-30 14:13:20,184 - Page - INFO - 点击t_fun下的free按钮
+2018-03-30 14:13:21,690 - price_test - INFO - free btn is good
+2018-03-30 14:13:22,004 - Page - INFO - 点击t_fun下的use_now按钮
+2018-03-30 14:13:23,780 - price_test - INFO - price btn is good
+2018-03-30 14:13:24,107 - test_fun - INFO - 测试完成，现在退出
+2018-03-30 14:13:34,125 - Driver - INFO - 打开火狐浏览器
+2018-03-30 14:13:34,130 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 14:13:34,130 - Page - INFO - 点击t_fun下的support按钮
+2018-03-30 14:13:35,601 - price_test - INFO - support btn is good
+2018-03-30 14:13:35,937 - test_fun - INFO - 测试完成，现在退出

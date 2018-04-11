@@ -1,0 +1,6 @@
+2018-03-28 14:57:18,257 - Driver - INFO - 打开谷歌浏览器
+2018-03-28 14:57:18,258 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-28 14:58:12,043 - Page - INFO - 浏览器中输入域名：https://beta.e-ducation.cn/
+2018-03-28 14:58:12,044 - LoginTest - INFO - 点击一下click click
+2018-03-28 14:58:12,045 - Page - INFO - 点击w_login下的宣传登陆按钮
+2018-03-28 14:59:02,385 - LoginTest - INFO - 测试完成，现在退出

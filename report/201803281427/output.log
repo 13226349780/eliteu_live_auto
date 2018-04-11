@@ -1,0 +1,5 @@
+2018-03-28 14:27:20,289 - Driver - INFO - 打开谷歌浏览器
+2018-03-28 14:27:20,290 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-28 14:27:23,082 - LoginTest - INFO - 点击一下click click
+2018-03-28 14:27:23,750 - LoginTest - INFO - title is : 登录 | E-ducation
+2018-03-28 14:27:23,751 - LoginTest - INFO - 测试完成，现在退出

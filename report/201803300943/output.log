@@ -1,0 +1,6 @@
+2018-03-30 09:43:19,483 - Driver - INFO - 打开火狐浏览器
+2018-03-30 09:43:19,489 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 09:43:19,489 - Page - INFO - 点击test_course下的course_cli按钮
+2018-03-30 09:43:20,540 - Page - INFO - 点击test_course下的course_login按钮
+2018-03-30 09:43:35,567 - Page - ERROR - @未发现元素XPATH为：/html/body/nav/div/div[2]/ul[2]/li[1]/button的元素@
+2018-03-30 09:43:35,569 - test_course - INFO - 测试完成，现在退出

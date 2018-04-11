@@ -1,0 +1,10 @@
+2018-03-29 14:13:05,995 - Driver - INFO - 打开火狐浏览器
+2018-03-29 14:13:06,003 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-29 14:13:06,004 - Page - INFO - 点击t_price下的price_c按钮
+2018-03-29 14:13:08,188 - Page - INFO - 点击t_price下的use按钮
+2018-03-29 14:13:09,434 - Page - INFO - 点击t_price下的confirm按钮
+2018-03-29 14:13:24,443 - Page - ERROR - @未发现元素CSS为：html body div#layui-layer3.layui-layer.layui-layer-dialog div.layui-layer-btn.layui-layer-btn- a.layui-layer-btn0的元素@
+2018-03-29 14:13:24,443 - Page - ERROR - Message: Unable to locate element: html body div#layui-layer3.layui-layer.layui-layer-dialog div.layui-layer-btn.layui-layer-btn- a.layui-layer-btn0
+
+2018-03-29 14:13:24,443 - price_test - INFO - 测试完成，现在退出
+2018-03-29 14:13:24,443 - price_test - INFO - 测试完成，现在退出

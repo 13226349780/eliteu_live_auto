@@ -1,0 +1,15 @@
+2018-03-30 11:49:11,289 - Driver - INFO - 打开火狐浏览器
+2018-03-30 11:49:11,293 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 11:49:11,294 - Page - INFO - 点击test_course下的course_cli按钮
+2018-03-30 11:49:15,365 - Page - INFO - 点击test_course下的course_login按钮
+2018-03-30 11:49:16,619 - Page - INFO - 点击test_course下的login_cancel按钮
+2018-03-30 11:49:18,012 - price_test - INFO - ['首页', '课程', '教授', '助教', '专属平台'] info is good
+2018-03-30 11:49:18,014 - Page - INFO - 点击test_course下的s1按钮
+2018-03-30 11:49:19,288 - price_test - INFO - 危险 • 固守原有的竞争优势 info is good
+2018-03-30 11:49:21,292 - Page - INFO - 点击test_course下的s2按钮
+2018-03-30 11:49:22,551 - price_test - INFO - 竞争对手难以模仿及干预的制胜策略 info is good
+2018-03-30 11:49:24,554 - Page - INFO - 点击test_course下的s3按钮
+2018-03-30 11:49:25,818 - price_test - INFO - 国内外高等学府MBA资深教授 info is good
+2018-03-30 11:49:27,824 - Page - INFO - 点击test_course下的s4按钮
+2018-03-30 11:49:29,086 - price_test - INFO - 解决实际问题的思想和工具 info is good
+2018-03-30 11:49:31,091 - test_course - INFO - 测试完成，现在退出

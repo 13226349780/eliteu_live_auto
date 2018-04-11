@@ -1,0 +1,7 @@
+2018-03-28 16:34:16,322 - Driver - INFO - 打开谷歌浏览器
+2018-03-28 16:34:16,323 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-28 16:34:16,324 - wel_LoginTest - INFO - 点击一下click click
+2018-03-28 16:34:16,324 - Page - INFO - 点击w_login下的宣传登陆按钮
+2018-03-28 16:34:19,799 - Page - INFO - 点击w_login下的confirm按钮
+2018-03-28 16:34:20,866 - wel_LoginTest - INFO - title is : 主页| E-ducation
+2018-03-28 16:34:20,867 - wel_LoginTest - INFO - 测试完成，现在退出

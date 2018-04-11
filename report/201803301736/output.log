@@ -1,0 +1,106 @@
+2018-03-30 17:36:44,269 - Excel - INFO - 加载usersexcel表
+2018-03-30 17:36:44,304 - Excel - INFO - 读取EXCEL表中的数据：[{'serial_number': 100001, 'description': '账号密码为空', 'username': '', 'password': '', 'expected_result': '请输入账户名！,请输入密码！'}, {'serial_number': 100002, 'description': '账号输入空格', 'username': ' ', 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100003, 'description': '账号输入错误', 'username': 1399269249, 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100004, 'description': '账号输入正确，密码为空', 'username': 18820408825, 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100005, 'description': '不符合密码规则少于6位', 'username': 18820408825, 'password': 12345, 'expected_result': '密码长度为6-30位字符'}, {'serial_number': 100006, 'description': '不符合密码规则大于于30位', 'username': 18820408825, 'password': '1234567890123456789012345678901', 'expected_result': '密码长度为6-30位字符'}, {'serial_number': 100007, 'description': '符合规则，密码错误', 'username': 18820408825, 'password': 123456, 'expected_result': '请输入密码！'}, {'serial_number': 100008, 'description': '账号正确，密码号错误', 'username': 'gx_123456_1@163.com', 'password': 1234567, 'expected_result': '请输入密码！'}, {'serial_number': 100009, 'description': '账号为本企业账号，无权限，密码正确', 'username': 13992692400, 'password': 1234567, 'expected_result': '账号尚未与此组织关联，请联系管理员'}, {'serial_number': 100010, 'description': '账号为其他企业账号，密码正确', 'username': 'gx_123456_3@163.com', 'password': 1234567, 'expected_result': '您的账号无此系统权限，请联系管理员'}, {'serial_number': 100011, 'description': '账号正确，密码正确', 'username': 'crews', 'password': 'eliteu123', 'expected_result': '直播列表 - Ant Design Pro'}]
+2018-03-30 17:36:53,680 - Driver - INFO - 打开火狐浏览器
+2018-03-30 17:36:53,688 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 17:36:53,689 - wel_LoginTest - INFO - 点击一下click click
+2018-03-30 17:36:53,690 - Page - INFO - 点击w_login下的宣传登陆按钮
+2018-03-30 17:36:55,181 - Page - INFO - 点击w_login下的confirm按钮
+2018-03-30 17:36:56,433 - wel_LoginTest - INFO - 不输入密码和账号时提示错误
+2018-03-30 17:36:57,282 - Page - INFO - 点击w_login下的confirm按钮
+2018-03-30 17:36:59,386 - Page - INFO - 点击w_login下的confirm按钮
+2018-03-30 17:37:00,634 - wel_LoginTest - INFO - 只输入账号时提示错误
+2018-03-30 17:37:02,347 - Page - INFO - 点击w_login下的confirm按钮
+2018-03-30 17:37:04,266 - wel_LoginTest - INFO - title is : 主页| E-ducation
+2018-03-30 17:37:04,267 - wel_LoginTest - INFO - 测试完成，现在退出
+2018-03-30 17:37:13,256 - Driver - INFO - 打开火狐浏览器
+2018-03-30 17:37:13,261 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 17:37:13,261 - Page - INFO - 点击t_price下的price_c按钮
+2018-03-30 17:37:15,104 - Page - INFO - 点击t_price下的price_50按钮
+2018-03-30 17:37:16,567 - price_test - INFO - 选择price_50_ic成功
+2018-03-30 17:37:16,567 - price_test - INFO - 选择price_50_ic成功
+2018-03-30 17:37:16,568 - Page - INFO - 点击t_price下的price_100按钮
+2018-03-30 17:37:18,047 - price_test - INFO - 选择price_100_ic成功
+2018-03-30 17:37:18,047 - price_test - INFO - 选择price_100_ic成功
+2018-03-30 17:37:18,048 - Page - INFO - 点击t_price下的price_300按钮
+2018-03-30 17:37:19,527 - price_test - INFO - 选择price_300_ic成功
+2018-03-30 17:37:19,527 - price_test - INFO - 选择price_300_ic成功
+2018-03-30 17:37:19,528 - Page - INFO - 点击t_price下的price_500按钮
+2018-03-30 17:37:20,999 - price_test - INFO - 选择price_500_ic成功
+2018-03-30 17:37:20,999 - price_test - INFO - 选择price_500_ic成功
+2018-03-30 17:37:20,999 - Page - INFO - 点击t_price下的price_800按钮
+2018-03-30 17:37:22,473 - price_test - INFO - 选择price_800_ic成功
+2018-03-30 17:37:22,473 - price_test - INFO - 选择price_800_ic成功
+2018-03-30 17:37:22,474 - Page - INFO - 点击t_price下的price_1000按钮
+2018-03-30 17:37:23,937 - price_test - INFO - 选择price_1000_ic成功
+2018-03-30 17:37:23,937 - price_test - INFO - 选择price_1000_ic成功
+2018-03-30 17:37:23,938 - Page - INFO - 点击t_price下的price_1500按钮
+2018-03-30 17:37:25,404 - price_test - INFO - 选择price_1500_ic成功
+2018-03-30 17:37:25,404 - price_test - INFO - 选择price_1500_ic成功
+2018-03-30 17:37:25,404 - Page - INFO - 点击t_price下的price_2000按钮
+2018-03-30 17:37:26,877 - price_test - INFO - 选择price_2000_ic成功
+2018-03-30 17:37:26,877 - price_test - INFO - 选择price_2000_ic成功
+2018-03-30 17:37:26,877 - Page - INFO - 点击t_price下的price_3000按钮
+2018-03-30 17:37:28,360 - price_test - INFO - 选择price_3000_ic成功
+2018-03-30 17:37:28,360 - price_test - INFO - 选择price_3000_ic成功
+2018-03-30 17:37:28,361 - Page - INFO - 点击t_price下的use按钮
+2018-03-30 17:37:29,978 - price_test - INFO - 测试完成，现在退出
+2018-03-30 17:37:29,978 - price_test - INFO - 测试完成，现在退出
+2018-03-30 17:37:38,956 - Driver - INFO - 打开火狐浏览器
+2018-03-30 17:37:38,963 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 17:37:38,963 - Page - INFO - 点击t_fun下的fun按钮
+2018-03-30 17:37:40,617 - Page - INFO - 点击t_fun下的free按钮
+2018-03-30 17:37:42,099 - price_test - INFO - free btn is good
+2018-03-30 17:37:42,099 - price_test - INFO - free btn is good
+2018-03-30 17:37:42,483 - Page - INFO - 点击t_fun下的use_now按钮
+2018-03-30 17:37:44,557 - price_test - INFO - price btn is good
+2018-03-30 17:37:44,557 - price_test - INFO - price btn is good
+2018-03-30 17:37:44,985 - test_fun - INFO - 测试完成，现在退出
+2018-03-30 17:37:53,929 - Driver - INFO - 打开火狐浏览器
+2018-03-30 17:37:53,933 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 17:37:53,933 - Page - INFO - 点击t_fun下的support按钮
+2018-03-30 17:37:55,385 - price_test - INFO - support btn is good
+2018-03-30 17:37:55,385 - price_test - INFO - support btn is good
+2018-03-30 17:37:55,779 - test_fun - INFO - 测试完成，现在退出
+2018-03-30 17:38:04,644 - Driver - INFO - 打开火狐浏览器
+2018-03-30 17:38:04,648 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 17:38:04,648 - Page - INFO - 点击t_use下的t_cli按钮
+2018-03-30 17:38:06,318 - Page - INFO - 点击t_use下的quick按钮
+2018-03-30 17:38:07,737 - price_test - INFO - quick btn is good
+2018-03-30 17:38:07,737 - price_test - INFO - quick btn is good
+2018-03-30 17:38:08,088 - Page - INFO - 点击t_use下的Xadmin按钮
+2018-03-30 17:38:09,417 - price_test - INFO - Xadmin btn is good
+2018-03-30 17:38:09,417 - price_test - INFO - Xadmin btn is good
+2018-03-30 17:38:09,845 - Page - INFO - 点击t_use下的CMS按钮
+2018-03-30 17:38:11,171 - price_test - INFO - CMS btn is good
+2018-03-30 17:38:11,171 - price_test - INFO - CMS btn is good
+2018-03-30 17:38:11,537 - Page - INFO - 点击t_use下的LMS按钮
+2018-03-30 17:38:12,906 - price_test - INFO - LMS btn is good
+2018-03-30 17:38:12,906 - price_test - INFO - LMS btn is good
+2018-03-30 17:38:13,281 - test_use - INFO - 测试完成，现在退出
+2018-03-30 17:38:22,168 - Driver - INFO - 打开火狐浏览器
+2018-03-30 17:38:22,173 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 17:38:22,173 - Page - INFO - 点击test_course下的course_cli按钮
+2018-03-30 17:38:26,238 - Page - INFO - 点击test_course下的course_login按钮
+2018-03-30 17:38:27,495 - Page - INFO - 点击test_course下的login_cancel按钮
+2018-03-30 17:38:28,808 - price_test - INFO - ['首页', '课程', '教授', '助教', '专属平台'] info is good
+2018-03-30 17:38:28,808 - price_test - INFO - ['首页', '课程', '教授', '助教', '专属平台'] info is good
+2018-03-30 17:38:28,808 - Page - INFO - 点击test_course下的s1按钮
+2018-03-30 17:38:30,061 - price_test - INFO - 危险 • 固守原有的竞争优势 info is good
+2018-03-30 17:38:30,061 - price_test - INFO - 危险 • 固守原有的竞争优势 info is good
+2018-03-30 17:38:32,065 - Page - INFO - 点击test_course下的s2按钮
+2018-03-30 17:38:33,324 - price_test - INFO - 竞争对手难以模仿及干预的制胜策略 info is good
+2018-03-30 17:38:33,324 - price_test - INFO - 竞争对手难以模仿及干预的制胜策略 info is good
+2018-03-30 17:38:35,328 - Page - INFO - 点击test_course下的s3按钮
+2018-03-30 17:38:36,593 - price_test - INFO - 国内外高等学府MBA资深教授 info is good
+2018-03-30 17:38:36,593 - price_test - INFO - 国内外高等学府MBA资深教授 info is good
+2018-03-30 17:38:38,596 - Page - INFO - 点击test_course下的s4按钮
+2018-03-30 17:38:39,865 - price_test - INFO - 解决实际问题的思想和工具 info is good
+2018-03-30 17:38:39,865 - price_test - INFO - 解决实际问题的思想和工具 info is good
+2018-03-30 17:38:41,869 - test_course - INFO - 测试完成，现在退出
+2018-03-30 17:38:50,695 - Driver - INFO - 打开火狐浏览器
+2018-03-30 17:38:50,699 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 17:38:50,699 - Page - INFO - 点击test_homepage下的chinese按钮
+2018-03-30 17:38:51,941 - Page - INFO - 点击test_homepage下的english按钮
+2018-03-30 17:38:53,575 - price_test - INFO - Features info is good
+2018-03-30 17:38:53,575 - price_test - INFO - Features info is good
+2018-03-30 17:38:53,575 - test_homeoage - INFO - 测试完成，现在退出

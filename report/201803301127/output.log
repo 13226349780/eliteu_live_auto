@@ -1,0 +1,8 @@
+2018-03-30 11:28:06,359 - Driver - INFO - 打开火狐浏览器
+2018-03-30 11:28:06,363 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 11:28:06,363 - Page - INFO - 点击test_course下的course_cli按钮
+2018-03-30 11:28:10,451 - Page - INFO - 点击test_course下的course_login按钮
+2018-03-30 11:28:11,717 - Page - INFO - 点击test_course下的login_cancel按钮
+2018-03-30 11:28:13,058 - Page - INFO - 点击test_course下的s1按钮
+2018-03-30 11:28:14,325 - price_test - INFO - 危险 • 固守原有的竞争优势 btn is good
+2018-03-30 11:28:18,328 - test_course - INFO - 测试完成，现在退出

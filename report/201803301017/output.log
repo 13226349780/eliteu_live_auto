@@ -1,0 +1,6 @@
+2018-03-30 10:17:11,635 - Driver - INFO - 打开火狐浏览器
+2018-03-30 10:17:11,638 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 10:17:11,639 - Page - INFO - 点击test_course下的course_cli按钮
+2018-03-30 10:17:15,701 - Page - INFO - 点击test_course下的course_login按钮
+2018-03-30 10:17:16,976 - Page - INFO - 点击test_course下的login_cancel按钮
+2018-03-30 10:17:18,235 - test_course - INFO - 测试完成，现在退出

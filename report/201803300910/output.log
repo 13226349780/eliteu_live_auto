@@ -1,0 +1,18 @@
+2018-03-30 09:10:38,198 - Excel - INFO - 加载usersexcel表
+2018-03-30 09:10:38,215 - Excel - INFO - 读取EXCEL表中的数据：[{'serial_number': 100001, 'description': '账号密码为空', 'username': '', 'password': '', 'expected_result': '请输入账户名！,请输入密码！'}, {'serial_number': 100002, 'description': '账号输入空格', 'username': ' ', 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100003, 'description': '账号输入错误', 'username': 1399269249, 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100004, 'description': '账号输入正确，密码为空', 'username': 18820408825, 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100005, 'description': '不符合密码规则少于6位', 'username': 18820408825, 'password': 12345, 'expected_result': '密码长度为6-30位字符'}, {'serial_number': 100006, 'description': '不符合密码规则大于于30位', 'username': 18820408825, 'password': '1234567890123456789012345678901', 'expected_result': '密码长度为6-30位字符'}, {'serial_number': 100007, 'description': '符合规则，密码错误', 'username': 18820408825, 'password': 123456, 'expected_result': '请输入密码！'}, {'serial_number': 100008, 'description': '账号正确，密码号错误', 'username': 'gx_123456_1@163.com', 'password': 1234567, 'expected_result': '请输入密码！'}, {'serial_number': 100009, 'description': '账号为本企业账号，无权限，密码正确', 'username': 13992692400, 'password': 1234567, 'expected_result': '账号尚未与此组织关联，请联系管理员'}, {'serial_number': 100010, 'description': '账号为其他企业账号，密码正确', 'username': 'gx_123456_3@163.com', 'password': 1234567, 'expected_result': '您的账号无此系统权限，请联系管理员'}, {'serial_number': 100011, 'description': '账号正确，密码正确', 'username': 'crews', 'password': 'eliteu123', 'expected_result': '直播列表 - Ant Design Pro'}]
+2018-03-30 09:10:46,844 - Driver - INFO - 打开火狐浏览器
+2018-03-30 09:10:46,848 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 09:10:46,849 - Page - INFO - 点击t_use下的t_cli按钮
+2018-03-30 09:10:48,453 - Page - INFO - 点击t_use下的quick按钮
+2018-03-30 09:10:49,872 - price_test - INFO - quick btn is good
+2018-03-30 09:10:49,872 - price_test - INFO - quick btn is good
+2018-03-30 09:10:50,234 - Page - INFO - 点击t_use下的Xadmin按钮
+2018-03-30 09:10:51,579 - price_test - INFO - Xadmin btn is good
+2018-03-30 09:10:51,579 - price_test - INFO - Xadmin btn is good
+2018-03-30 09:10:51,956 - Page - INFO - 点击t_use下的CMS按钮
+2018-03-30 09:10:53,305 - price_test - INFO - CMS btn is good
+2018-03-30 09:10:53,305 - price_test - INFO - CMS btn is good
+2018-03-30 09:10:53,663 - Page - INFO - 点击t_use下的LMS按钮
+2018-03-30 09:10:55,029 - price_test - INFO - LMS btn is good
+2018-03-30 09:10:55,029 - price_test - INFO - LMS btn is good
+2018-03-30 09:10:55,393 - test_use - INFO - 测试完成，现在退出

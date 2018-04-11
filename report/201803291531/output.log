@@ -1,0 +1,7 @@
+2018-03-29 15:32:02,028 - Driver - INFO - 打开火狐浏览器
+2018-03-29 15:32:02,039 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-29 15:32:02,039 - Page - INFO - 点击t_fun下的fun按钮
+2018-03-29 15:32:17,076 - Page - ERROR - @未发现元素CSS为：html body header.container-fluid.nav-color div.container nav.navbar.navbar-default.no-margin.nav-header div.container-fluid div#bs-example-navbar-collapse-1.navbar-collapse.collapse.in ul.nav.navbar-nav.navbar-left.nav-ml.nav-menu-list li.function_nav a的元素@
+2018-03-29 15:32:17,078 - Page - ERROR - Message: Unable to locate element: html body header.container-fluid.nav-color div.container nav.navbar.navbar-default.no-margin.nav-header div.container-fluid div#bs-example-navbar-collapse-1.navbar-collapse.collapse.in ul.nav.navbar-nav.navbar-left.nav-ml.nav-menu-list li.function_nav a
+
+2018-03-29 15:32:17,082 - test_fun - INFO - 测试完成，现在退出

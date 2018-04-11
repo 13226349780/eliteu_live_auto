@@ -1,0 +1,41 @@
+2018-03-27 17:29:46,249 - Excel - INFO - 加载usersexcel表
+2018-03-27 17:29:46,259 - Excel - INFO - 读取EXCEL表中的数据：[{'serial_number': 100001, 'description': '账号密码为空', 'username': '', 'password': '', 'expected_result': '请输入账户名！,请输入密码！'}, {'serial_number': 100002, 'description': '账号输入空格', 'username': ' ', 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100003, 'description': '账号输入错误', 'username': 1399269249, 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100004, 'description': '账号输入正确，密码为空', 'username': 18820408825, 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100005, 'description': '不符合密码规则少于6位', 'username': 18820408825, 'password': 12345, 'expected_result': '密码长度为6-30位字符'}, {'serial_number': 100006, 'description': '不符合密码规则大于于30位', 'username': 18820408825, 'password': '1234567890123456789012345678901', 'expected_result': '密码长度为6-30位字符'}, {'serial_number': 100007, 'description': '符合规则，密码错误', 'username': 18820408825, 'password': 123456, 'expected_result': '请输入密码！'}, {'serial_number': 100008, 'description': '账号正确，密码号错误', 'username': 'gx_123456_1@163.com', 'password': 1234567, 'expected_result': '请输入密码！'}, {'serial_number': 100009, 'description': '账号为本企业账号，无权限，密码正确', 'username': 13992692400, 'password': 1234567, 'expected_result': '账号尚未与此组织关联，请联系管理员'}, {'serial_number': 100010, 'description': '账号为其他企业账号，密码正确', 'username': 'gx_123456_3@163.com', 'password': 1234567, 'expected_result': '您的账号无此系统权限，请联系管理员'}, {'serial_number': 100011, 'description': '账号正确，密码正确', 'username': 'crews', 'password': 'eliteu123', 'expected_result': '直播列表 - Ant Design Pro'}]
+2018-03-27 17:29:46,260 - Excel - INFO - 加载usersexcel表
+2018-03-27 17:29:46,265 - Excel - INFO - 读取EXCEL表中的数据：[{'serial_number': 100001, 'description': '账号密码为空', 'username': '', 'password': '', 'expected_result': '请输入账户名！,请输入密码！'}, {'serial_number': 100002, 'description': '账号输入空格', 'username': ' ', 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100003, 'description': '账号输入错误', 'username': 1399269249, 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100004, 'description': '账号输入正确，密码为空', 'username': 18820408825, 'password': '', 'expected_result': '请输入密码！'}, {'serial_number': 100005, 'description': '不符合密码规则少于6位', 'username': 18820408825, 'password': 12345, 'expected_result': '密码长度为6-30位字符'}, {'serial_number': 100006, 'description': '不符合密码规则大于于30位', 'username': 18820408825, 'password': '1234567890123456789012345678901', 'expected_result': '密码长度为6-30位字符'}, {'serial_number': 100007, 'description': '符合规则，密码错误', 'username': 18820408825, 'password': 123456, 'expected_result': '请输入密码！'}, {'serial_number': 100008, 'description': '账号正确，密码号错误', 'username': 'gx_123456_1@163.com', 'password': 1234567, 'expected_result': '请输入密码！'}, {'serial_number': 100009, 'description': '账号为本企业账号，无权限，密码正确', 'username': 13992692400, 'password': 1234567, 'expected_result': '账号尚未与此组织关联，请联系管理员'}, {'serial_number': 100010, 'description': '账号为其他企业账号，密码正确', 'username': 'gx_123456_3@163.com', 'password': 1234567, 'expected_result': '您的账号无此系统权限，请联系管理员'}, {'serial_number': 100011, 'description': '账号正确，密码正确', 'username': 'crews', 'password': 'eliteu123', 'expected_result': '直播列表 - Ant Design Pro'}]
+2018-03-27 17:29:50,981 - Driver - INFO - 打开火狐浏览器
+2018-03-27 17:29:50,989 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-27 17:29:52,337 - Page - INFO - 浏览器中输入域名：http://eliteu-live.beta.e-ducation.cn
+2018-03-27 17:29:52,338 - LoginTest - INFO - 【test_login_1】加载登录模块页眉页脚文本验证
+2018-03-27 17:29:52,338 - LoginTest - INFO - 【test_login_1】加载登录模块页眉页脚文本验证
+2018-03-27 17:29:52,339 - Login - INFO - 获取登录模块的页眉页脚文本
+2018-03-27 17:29:52,393 - Page - INFO - 获取登录模块下的logo文本文本信息：Eliteu Live
+2018-03-27 17:29:52,925 - Page - INFO - 获取登录模块下的宣传语文本信息：英荔教育，变革 • 创新 • 未来！
+2018-03-27 17:29:53,448 - Page - INFO - 获取登录模块下的帮助文本信息：帮助
+2018-03-27 17:29:53,976 - Page - INFO - 获取登录模块下的隐私文本信息：隐私
+2018-03-27 17:29:54,502 - Page - INFO - 获取登录模块下的条款文本信息：条款
+2018-03-27 17:29:55,028 - Page - INFO - 获取登录模块下的公司信息文本信息：Copyright 2018 英荔教育技术部出品
+2018-03-27 17:29:55,532 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,532 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,533 - LoginTest - INFO - 实际结果：Eliteu Live，预期结果:Eliteu Live
+2018-03-27 17:29:55,533 - LoginTest - INFO - 实际结果：Eliteu Live，预期结果:Eliteu Live
+2018-03-27 17:29:55,533 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,533 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,534 - LoginTest - INFO - 实际结果：英荔教育，变革 • 创新 • 未来！，预期结果:英荔教育，变革 • 创新 • 未来！
+2018-03-27 17:29:55,534 - LoginTest - INFO - 实际结果：英荔教育，变革 • 创新 • 未来！，预期结果:英荔教育，变革 • 创新 • 未来！
+2018-03-27 17:29:55,534 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,534 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,534 - LoginTest - INFO - 实际结果：帮助，预期结果:帮助
+2018-03-27 17:29:55,534 - LoginTest - INFO - 实际结果：帮助，预期结果:帮助
+2018-03-27 17:29:55,535 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,535 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,535 - LoginTest - INFO - 实际结果：隐私，预期结果:隐私
+2018-03-27 17:29:55,535 - LoginTest - INFO - 实际结果：隐私，预期结果:隐私
+2018-03-27 17:29:55,535 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,535 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,536 - LoginTest - INFO - 实际结果：条款，预期结果:条款
+2018-03-27 17:29:55,536 - LoginTest - INFO - 实际结果：条款，预期结果:条款
+2018-03-27 17:29:55,536 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,536 - LoginTest - INFO - 【用例开始】--》
+2018-03-27 17:29:55,537 - LoginTest - INFO - 实际结果：Copyright 2018 英荔教育技术部出品，预期结果:Copyright 2018 英荔教育技术部出品
+2018-03-27 17:29:55,537 - LoginTest - INFO - 实际结果：Copyright 2018 英荔教育技术部出品，预期结果:Copyright 2018 英荔教育技术部出品
+2018-03-27 17:29:56,173 - Page - INFO - 关闭浏览器

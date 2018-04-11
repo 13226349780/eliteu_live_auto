@@ -1,0 +1,29 @@
+t_wc:
+  browser: firefox
+  url: https://beta.e-ducation.cn/
+  title: eliteu_live
+  real_title: 主页| E-ducation
+  nn_tips: 请输入账号
+  np_tips: 邮箱或手机号码格式有误
+  username: 13226349780
+  password: 19940919
+  null: 请输入账号
+  n_url: https://beta.e-ducation.cn/user/user_center/
+
+t_fun:
+  url: https://beta.e-ducation.cn/account/free_experience/
+  price_url: https://beta.e-ducation.cn/shoppinglist/get_combo_list/
+  support_url: https://beta.e-ducation.cn/support/
+t_use:
+  quick: https://beta.e-ducation.cn/question/quick_use/
+  Xadmin: https://beta.e-ducation.cn/question/system_manage/
+  CMS: https://beta.e-ducation.cn/question/course_manage/
+  LMS: https://beta.e-ducation.cn/question/online_study/
+t_course:
+  li_tit: ['首页', '课程', '教授', '助教', '专属平台']
+  dinger: 危险 • 固守原有的竞争优势
+  compete: 竞争对手难以模仿及干预的制胜策略
+  s3: 国内外高等学府MBA资深教授
+  s4: 解决实际问题的思想和工具
+t_homepage:
+  english: Features

@@ -1,0 +1,37 @@
+2018-03-29 13:52:13,867 - Driver - INFO - 打开火狐浏览器
+2018-03-29 13:52:13,874 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-29 13:52:13,874 - Page - INFO - 点击t_price下的price_c按钮
+2018-03-29 13:52:16,214 - Page - INFO - 点击t_price下的price_50按钮
+2018-03-29 13:52:17,679 - price_test - INFO - 选择price_50_ic成功
+2018-03-29 13:52:17,679 - price_test - INFO - 选择price_50_ic成功
+2018-03-29 13:52:17,680 - Page - INFO - 点击t_price下的price_100按钮
+2018-03-29 13:52:19,164 - price_test - INFO - 选择price_100_ic成功
+2018-03-29 13:52:19,164 - price_test - INFO - 选择price_100_ic成功
+2018-03-29 13:52:19,165 - Page - INFO - 点击t_price下的price_300按钮
+2018-03-29 13:52:20,656 - price_test - INFO - 选择price_300_ic成功
+2018-03-29 13:52:20,656 - price_test - INFO - 选择price_300_ic成功
+2018-03-29 13:52:20,656 - Page - INFO - 点击t_price下的price_500按钮
+2018-03-29 13:52:22,125 - price_test - INFO - 选择price_500_ic成功
+2018-03-29 13:52:22,125 - price_test - INFO - 选择price_500_ic成功
+2018-03-29 13:52:22,125 - Page - INFO - 点击t_price下的price_800按钮
+2018-03-29 13:52:23,592 - price_test - INFO - 选择price_800_ic成功
+2018-03-29 13:52:23,592 - price_test - INFO - 选择price_800_ic成功
+2018-03-29 13:52:23,593 - Page - INFO - 点击t_price下的price_1000按钮
+2018-03-29 13:52:25,090 - price_test - INFO - 选择price_1000_ic成功
+2018-03-29 13:52:25,090 - price_test - INFO - 选择price_1000_ic成功
+2018-03-29 13:52:25,091 - Page - INFO - 点击t_price下的price_1500按钮
+2018-03-29 13:52:26,570 - price_test - INFO - 选择price_1500_ic成功
+2018-03-29 13:52:26,570 - price_test - INFO - 选择price_1500_ic成功
+2018-03-29 13:52:26,570 - Page - INFO - 点击t_price下的price_2000按钮
+2018-03-29 13:52:28,053 - price_test - INFO - 选择price_2000_ic成功
+2018-03-29 13:52:28,053 - price_test - INFO - 选择price_2000_ic成功
+2018-03-29 13:52:28,054 - Page - INFO - 点击t_price下的price_3000按钮
+2018-03-29 13:52:29,512 - price_test - INFO - 选择price_3000_ic成功
+2018-03-29 13:52:29,512 - price_test - INFO - 选择price_3000_ic成功
+2018-03-29 13:52:29,512 - Page - INFO - 点击t_price下的use按钮
+2018-03-29 13:52:31,071 - Page - INFO - 点击t_price下的confirm按钮
+2018-03-29 13:52:46,081 - Page - ERROR - @未发现元素CSS为：html body div#layui-layer3.layui-layer.layui-layer-dialog div.layui-layer-btn.layui-layer-btn- a.layui-layer-btn0的元素@
+2018-03-29 13:52:46,081 - Page - ERROR - Message: Unable to locate element: html body div#layui-layer3.layui-layer.layui-layer-dialog div.layui-layer-btn.layui-layer-btn- a.layui-layer-btn0
+
+2018-03-29 13:52:46,082 - price_test - INFO - 测试完成，现在退出
+2018-03-29 13:52:46,082 - price_test - INFO - 测试完成，现在退出

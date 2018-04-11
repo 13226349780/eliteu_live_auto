@@ -1,0 +1,12 @@
+2018-03-29 17:45:47,260 - Driver - INFO - 打开火狐浏览器
+2018-03-29 17:45:47,264 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-29 17:45:47,264 - Page - INFO - 点击t_use下的t_cli按钮
+2018-03-29 17:45:48,787 - Page - INFO - 点击t_use下的quick按钮
+2018-03-29 17:45:50,166 - price_test - INFO - quick btn is good
+2018-03-29 17:45:50,471 - Page - INFO - 点击t_use下的Xadmin按钮
+2018-03-29 17:45:51,823 - price_test - INFO - Xadmin btn is good
+2018-03-29 17:45:52,135 - Page - INFO - 点击t_use下的CMS按钮
+2018-03-29 17:45:53,455 - price_test - INFO - CMS btn is good
+2018-03-29 17:45:53,756 - Page - INFO - 点击t_use下的LMS按钮
+2018-03-29 17:45:55,107 - price_test - INFO - LMS btn is good
+2018-03-29 17:45:55,402 - test_use - INFO - 测试完成，现在退出

@@ -1,0 +1,15 @@
+2018-03-30 11:43:44,520 - Driver - INFO - 打开火狐浏览器
+2018-03-30 11:43:44,524 - Driver - INFO - 隐式等待元素时间为：15
+2018-03-30 11:43:44,525 - Page - INFO - 点击test_course下的course_cli按钮
+2018-03-30 11:43:48,593 - Page - INFO - 点击test_course下的course_login按钮
+2018-03-30 11:43:49,906 - Page - INFO - 点击test_course下的login_cancel按钮
+2018-03-30 11:43:51,257 - price_test - INFO - ['首页', '课程', '教授', '助教', '专属平台'] info is good
+2018-03-30 11:43:51,257 - Page - INFO - 点击test_course下的s1按钮
+2018-03-30 11:43:52,524 - price_test - INFO - 危险 • 固守原有的竞争优势 info is good
+2018-03-30 11:43:54,530 - Page - INFO - 点击test_course下的s2按钮
+2018-03-30 11:43:55,788 - price_test - INFO - 竞争对手难以模仿及干预的制胜策略 info is good
+2018-03-30 11:43:57,790 - Page - INFO - 点击test_course下的s3按钮
+2018-03-30 11:43:59,059 - price_test - INFO -  info is error
+2018-03-30 11:44:01,063 - Page - INFO - 点击test_course下的s4按钮
+2018-03-30 11:44:02,324 - price_test - INFO -  info is error
+2018-03-30 11:44:04,329 - test_course - INFO - 测试完成，现在退出
