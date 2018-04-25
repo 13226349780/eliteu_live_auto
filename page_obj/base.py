@@ -5,6 +5,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver import ActionChains
 from selenium.webdriver.support.select import Select
 
+from readYaml import yl
 from testFile.config import config_element
 from common.logger import Logging
 
@@ -15,9 +16,10 @@ class Page():
         self.driver = driver
 
     #单个元素定位
-    def find_element(self,page,element):
+    def find_element(self, page, element):
         try:
             el = config_element[page][element]
+            #el = yl[page][element]
             type = el[0]
             value = el[1]
             if type == "ID" or type == "id" or type == "Id":
@@ -144,7 +146,7 @@ class Page():
         logger.info("获取页面的title : %s"  %title)
         return  title
 
-    def finds(self,elements):
+    def finds(self, elements):
         type = elements[0]
         value = elements[1]
         if type =="css" or type =="Css" or type =="CSS":
@@ -165,7 +167,7 @@ class Page():
     #点击事件
     def click(self,page,element):
         logger.info("点击{}下的{}按钮".format(page, element))
-        el = self.find_element(page,element)
+        el = self.find_element(page, element)
         el.click()
         self.wait_time(1)
 
@@ -185,10 +187,10 @@ class Page():
         return self.driver.title
 
     #清空输入框，然后输入VALUE
-    def send_keys(self,page,element,value):
+    def send_keys(self, page, element, value):
         self.wait_time(0.8)
-        self.find_element(page,element).clear()
-        self.find_element(page,element).send_keys(value)
+        self.find_element(page, element).clear()
+        self.find_element(page, element).send_keys(value)
 
 
     # 下拉选择框
@@ -197,9 +199,9 @@ class Page():
 
 
     #内嵌框架进行切换
-    def iframe(self,page,element):
+    def iframe(self, page, element):
         self.wait_time(1)
-        self.driver.switch_to.frame(self.find_element(page,element))
+        self.driver.switch_to.frame(self.find_element(page, element))
 
     #鼠标事件
     def action(self):
@@ -212,7 +214,7 @@ class Page():
         try:
             el = self.find_element(page, element)
             self.wait_time(0.5)
-            self.action().move_to_element(el).perform()
+            self.action().move_to_element(el).perrm()
         except Exception as e:
             logger.error("鼠标没有能正常悬停在 {} 的 {} 上".format(page, element))
             logger.error(e)
@@ -228,7 +230,7 @@ class Page():
 
     """对浏览器的一些操作--------------------------------------"""
 
-    def open(self,url):
+    def open(self, url):
         """打开网页"""
         self.driver.get(url)
         logger.info("浏览器中输入域名：%s" %url)
@@ -271,7 +273,7 @@ class Page():
         self.wait_time(1)
 
     #页面 后退：-1 ，刷新当前页：0 ，前进：1
-    def browser_page_handle(self,type ="-1"):
+    def browser_page_handle(self, type= "-1"):
         if type == "-1":
             self.wait_time(0.5)
             self.driver.back()
@@ -287,7 +289,7 @@ class Page():
     #调节浏览器窗口大小
     def window_sizi(self,width =400,height=400):
         self.wait_time(0.5)
-        self.driver.set_window_size(width,height)
+        self.driver.set_window_size(width, height)
         self.wait_time(0.5)
 
     def window_max(self):
@@ -298,11 +300,11 @@ class Page():
         try:
             self.driver.execute_script(js)
         except Exception as e:
-            logger.error("@JS加载错误:%s@" %e)
+            logger.error("@JS加载错误:%s@" % e)
 
 
     # 调节浏览器滚动条
-    def page_location(self,down = 0,right = 0):
+    def page_location(self, down=0, right=0):
         if str.isnumeric(down) and str.isnumeric(right):
             size = "window.scrollTo({},{})".format(down, right)
         else:
@@ -310,7 +312,7 @@ class Page():
         self.javascript(size)
         self.wait_time(1)
 
-    def get_windows_img(self,Fail=""):
+    def get_windows_img(self, Fail=""):
         """
         在这里我们把file_path这个参数写死，直接保存到我们项目根目录的一个文件夹.\Screenshots下
         """
@@ -324,16 +326,16 @@ class Page():
         except NameError as e:
             logger.error("@页面截图保存发生错误! %s@" % e)
 
-    def get_location(self,page,element):
+    def get_location(self, page, element):
         list = []
-        el = self.find_element(page,element)
+        el = self.find_element(page, element)
         location  = el.location
         list.append(location)
         size = el.size
         list.append(size)
         return list
 
-    def get_relative_location(self,elementA,elementB):
+    def get_relative_location(self, elementA, elementB):
 
         locationA = self.get_location(*elementA)
         xA = locationA[0]["x"]
@@ -362,7 +364,7 @@ class Page():
         logger.info("{}模块下的{}元素可见性为：{}".format(page, element,dis))
         return dis
 
-    def isElementExist(self, page, element,time=2):
+    def isElementExist(self, page, element, time=2):
         """判断元素是否存在"""
         try:
             el = config_element[page][element]
@@ -396,7 +398,7 @@ class Page():
         logger.info("{}模块下的{}元素灰化状态：{}".format(page, element,enabled))
         return enabled
 
-    def is_select(self,page,element):
+    def is_select(self, page, element):
         """点选框是否为选中状态"""
         select = self.find_element(page,element).is_selected()
         logger.info("{}模块下的{}元素是否为点选状态：{}".format(page, element, select))

@@ -130,5 +130,5 @@ class Time():
 
 
 if __name__ == '__main__':
-    data =  Excel("users",2).read_excel()
-    print(data ,"testFile")
+    data = Excel("users", 2).read_excel()
+    print(data, "testFile")

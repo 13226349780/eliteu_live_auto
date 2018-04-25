@@ -5,7 +5,7 @@ import os
 import readConfig
 from common import logger
 from common.HTMLTestRunner import HTMLTestRunner
-from testCase.login_sta import Logintest
+from testCase.w_test.login_sta import Logintest
 
 
 def get_case_list():

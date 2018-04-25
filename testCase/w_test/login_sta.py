@@ -1,9 +1,7 @@
-import paramunittest
-
 from common.function import Excel
 from testFile.config import Page_Text
 from common.logger import Logging
-from testCase.myunittest import loginTest
+from testCase.w_test.myunittest import loginTest
 
 logger = Logging("LoginTest").getlog()
 datas = Excel("users").read_excel(2)

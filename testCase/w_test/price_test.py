@@ -55,8 +55,8 @@ class test_price(unittest.TestCase,Page,check):
         except:
             logger.info("选择50失败")
             """
-        no_c_50 = ["t_price","price_50"]
-        is_c_50 = ["t_price","price_50_ic"]
+        no_c_50 = ["t_price", "price_50"]
+        is_c_50 = ["t_price", "price_50_ic"]
         self.check_element(no_c_50,is_c_50)
         no_c_100 = ["t_price", "price_100"]
         is_c_100 = ["t_price", "price_100_ic"]

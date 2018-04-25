@@ -1,5 +1,5 @@
 t_wc:
-  browser: firefox
+  browser: chrome
   url: https://beta.e-ducation.cn/
   title: eliteu_live
   real_title: 主页| E-ducation
@@ -27,3 +27,14 @@ t_course:
   s4: 解决实际问题的思想和工具
 t_homepage:
   english: Features
+
+
+t_ed_student:
+  browser: Chrome
+  url: http://elitelive.beta.e-ducation.cn
+  username: 13226349780
+  pwd: 123456
+  ua: ['id','username']
+  a_url: http://elitelive.beta.e-ducation.cn/#/dashboard/config/8
+
+

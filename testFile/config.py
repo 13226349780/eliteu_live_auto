@@ -120,6 +120,10 @@ config_element = {
         "nav":["xpath","/html/body/header/div/nav/div/div[2]/ul[1]"],
         "chinese":["xpath","/html/body/header/div/nav/div/div[2]/ul[3]/li[4]/div/ul/li[1]"],
         "english":["xpath","/html/body/header/div/nav/div/div[2]/ul[3]/li[4]/div/ul/li[2]"],
+    },
+    "test_login":{
+        "username": ["id", "username"],
+        "password": ["id", "password"],
     }
 
  }
